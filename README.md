@@ -6,15 +6,15 @@ The Purpose of this analysis is to evaluate some models with unbalanced classes 
 ## Results:
 
 - **Oversampling**
-Using oversampling, it can be observed that the high risk precision is 1%, its recall is 69%, while the low risk has a 100% precision but the recall has 60% of accuracy.
+Using oversampling, it can be observed that the high risk precision is 1%, its recall is 74%, while the low risk has a 100% precision but the recall has 58% of accuracy.
 
 ![oversampling](https://github.com/alesandelmoral/Credit_Risk_Analysis/blob/main/Images/oversampling.PNG)
 
-- With SMOTE oversampling, the high risk precision is 1% and the recall is 63%. The low risk has a precision of 100% while the recall is 69%.
+- With SMOTE oversampling, the high risk precision is 1% and the recall is 62%. The low risk has a precision of 100% while the recall is 68%.
 
 ![SMOTE_oversampling](https://github.com/alesandelmoral/Credit_Risk_Analysis/blob/main/Images/SMOTE_oversampling.PNG)
 
-- Undersampling presents an accuracy in high risk precision of 1% and a recall of 69%. The low risk presents a precision of 100% and a recall of 39%.
+- Undersampling presents an accuracy in high risk precision of 1% and a recall of 69%. The low risk presents a precision of 100% and a recall of 40%.
 
 ![Undersampling](https://github.com/alesandelmoral/Credit_Risk_Analysis/blob/main/Images/Undersampling.PNG)
 
